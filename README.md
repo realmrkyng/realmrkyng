@@ -3,12 +3,11 @@
 
   # Hi, I'm Mr.Kyng 👋
 
-  ### About Me
-
-  - 🔭 Currently building something cool
-  - 🌱 Exploring **LLMs** and **Generative AI**
-  - 💬 Ask me about **Web Dev** or **Machine Learning**
-  - 📫 Reach me at: `your@email.com`
+### About Me
+🔭 Currently building something cool
+🌱 Exploring **LLMs** and **Generative AI**
+💬 Ask me about **Web Dev** or **Machine Learning**
+📫 Reach me at: `your@email.com`
 
   ---
 
