@@ -7,7 +7,7 @@
 <br>
 </div>
 
-               >>> 你好, 世界! I'm MrKyng. <<<
+        >>> 你好, 世界! I'm MrKyng. <<<
 ```
 
 ```bash
