@@ -19,12 +19,6 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### 📊 数据卡片
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=realoliva&theme=tokyonight&hide_border=true&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realoliva&theme=tokyonight&hide_border=true&layout=compact"/>
-</div>
-
 ### 📈 动态贡献曲线图
 <div align="center">
 
