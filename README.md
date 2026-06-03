@@ -1,37 +1,56 @@
-<div align="center">
-<!-- 彩虹分割线 -->
-<img src="https://cdn.jsdelivr.net/gh/andreasbm/readme@master/assets/lines/rainbow.png" width="100%"/>
-</div>
 
-<br>
+┌──────────────────────────────────────────────────────────────────┐
+│ ███╗   ███╗██████╗ ██╗  ██╗██╗   ██╗███╗   ██╗ ██████╗          │
+│ ████╗ ████║██╔══██╗██║ ██╔╝╚██╗ ██╔╝████╗  ██║██╔════╝          │
+│ ██╔████╔██║██████╔╝█████╔╝  ╚████╔╝ ██╔██╗ ██║██║  ███╗         │
+│ ██║╚██╔╝██║██╔══██╗██╔═██╗   ╚██╔╝  ██║╚██╗██║██║   ██║         │
+│ ██║ ╚═╝ ██║██║  ██║██║  ██╗   ██║   ██║ ╚████║╚██████╔╝         │
+│ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝          │
+└──────────────────────────────────────────────────────────────────┘
+               >>> 你好, 世界! I'm MrKyng. <<<
+```
 
-### 👨‍💻 极客档案 | Geeker Profile
-- **状态**：⚡ 正在充电 | **坐标**：🇨🇳 吉林市
-- **信仰**：`if (code != elegant) throw new LifeError();`
-- **技能**：Python 🐍 | SQL 💾 | Web全栈 🌐 | 数据分析 📊
+```bash
+$ whoami
+> 全栈工程师 / 开源爱好者 / 终端美化强迫症患者
+> 主要使用 Go, Python, TypeScript, Rust, C++ 折腾各种好玩的东西
+```
 
-### 🛠️ 技术栈徽章 | Tech Stack
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/mysql.svg" alt="MySQL" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/html5.svg" alt="HTML5" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/css3.svg" alt="CSS3" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/git.svg" alt="Git" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linux.svg" alt="Linux" style="margin: 5px;"/>
-</div>
+⚙️ Tech Stack
 
-<br>
+```text
+🔧 日常主力
+   Go  ▪ Python  ▪ TypeScript  ▪ Rust  ▪ C++  ▪ Lua  ▪ Shell
 
-### 📈 动态贡献曲线 | Activity Graph
-<div align="center">
-  <!-- 这里可以放置你的实际贡献图链接，或者留空由系统自动生成 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical" alt="Stats" style="width: 48%; display: inline-block; margin: 5px 0;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="Top Langs" style="width: 48%; display: inline-block; margin: 5px 0;" />
-</div>
+🗄️ 后端与数据库
+   Gin  ▪ FastAPI  ▪ Node.js  ▪ Redis  ▪ MySQL  ▪ PostgreSQL  ▪ MongoDB
 
-<br>
+🖥️ 前端与跨端
+   React  ▪ Vue  ▪ Next.js  ▪ Electron  ▪ Tauri  ▪ Flutter
 
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/kyokomi/emoji-rain-action@v1/dist/waving.svg" alt="Waving" style="width: 100%;"/>
-<br>
-</div>
+☁️  DevOps & 云原生
+   Docker  ▪ Kubernetes  ▪ Linux  ▪ Nginx  ▪ GitHub Actions  ▪ 阿里云  ▪ 腾讯云
+
+🧰 工具与习惯
+   Neovim  ▪ Tmux  ▪ Arch Linux  ▪ Git  ▪ Obsidian  ▪ Markdown
+```
+
+📡 Connect With Me
+
+平台 链接
+🏠 个人博客 https://mrkyng.com← 请换成你自己的
+📧 Email mrkyng@example.com ← 换成你的真实邮箱
+
+🎯 Current Focus
+
+```diff
++ 构建高性能云原生工具链
+- 摸鱼写 Rust 操作系统内核
+! 完善个人知识库 (Obsidian + Git)
+# 给开源项目提 PR 练手
+```
+
+---
+📍 新加坡 | 🕒 2026-05
+
+```
