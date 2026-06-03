@@ -7,7 +7,7 @@
 <br>
 </div>
 
-       。Hello everyone! I'm MrKyng. 
+         Hello everyone! I'm MrKyng. 
 ```
 
 ⚙️ Tech Stack
@@ -28,9 +28,9 @@
    Neovim  ▪ Tmux  ▪ Arch Linux  ▪ Git  ▪ Obsidian  ▪ Markdown
 ```
 
-📡 Connect With Me
-🏠 个人博客 https://mrkyng.com
-📧 Email hello@mrkyng.com
+📡 Connect With Me  
+https://mrkyng.com
+hello@mrkyng.com
 ```diff
 + 构建高性能云原生工具链
 ! 完善个人知识库 (Obsidian + Git)
