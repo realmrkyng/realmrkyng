@@ -7,7 +7,7 @@
 <br>
 </div>
 
-       Hello everyone! I'm MrKyng. 
+       。Hello everyone! I'm MrKyng. 
 ```
 
 ⚙️ Tech Stack
@@ -37,6 +37,6 @@
 # 给开源项目提 PR 练手
 ```
 
-               📍 新加坡 
+                📍 新加坡 
 
 ```
