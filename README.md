@@ -10,10 +10,6 @@
 
 
 
-<div align="center"><img src="https://raw.githubusercontent.com/MrKyng/action/output/github-contribution-grid-snake.svg?v=20260831" alt="GitHub contribution snake animation" /></div>
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/MrKyng" target="_blank">
