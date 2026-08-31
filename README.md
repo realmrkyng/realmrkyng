@@ -97,9 +97,6 @@
 </table>
 
 
-<img width="100%" src="https://repobeats.axiom.co/api/embed/c577be31087fb4f31886421e18b2d222ec98aa8f.svg" alt="Repository activity" />
-
-
 </div>
 
 
