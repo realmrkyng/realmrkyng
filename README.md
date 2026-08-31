@@ -9,13 +9,6 @@
 </div>
 
 
-<div align="center">
-<img width="80" src="https://raw.githubusercontent.com/MrKyng/static-resources/main/cxyduck.gif" alt="avatar decoration" />
-<img src="https://github.com/MrKyng.png" align="center" height="180" width="180" alt="Profile avatar" />
-<img width="80" src="https://raw.githubusercontent.com/MrKyng/static-resources/main/cxyduck.gif" alt="avatar decoration" />
-</div>  
-
-
 
 <div align="center"><img src="https://raw.githubusercontent.com/MrKyng/action/output/github-contribution-grid-snake.svg?v=20260831" alt="GitHub contribution snake animation" /></div>
 <br/>  
@@ -41,21 +34,7 @@
 ## GitHub Trophies
 <div align="center"> <img src="https://trophy.ryglcloud.net/?username=MrKyng" alt="GitHub profile trophies" /> </div>
 <div>&nbsp;</div>
-## GitHub Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKyng&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKyng&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrKyng&theme=github" alt="GitHub contribution summary" />
-</picture>
 
-<div>&nbsp;</div>
-<picture>
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" /> -->
-  <img width="100%" src="https://raw.githubusercontent.com/MrKyng/action/main/profile-3d-contrib/profile-green-animate.svg" alt="3D contribution profile" />
-</picture>
-
-<div>&nbsp;</div>
 ## My Skill Set  
 <table width="100%"><tr><td valign="top" width="33%">
 
