@@ -85,13 +85,13 @@
     <th width="10%">Forks</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/MrKyng/MCL-Launcher" target="_blank">MCL-Launcher</a></td>
-    <td>A Minecraft Java Edition Launcher</td>
+    <td><a href="https://github.com/MrKyng/Upthrum" target="_blank">Upthrum</a></td>
+    <td>A Open‑source image & video quality enhancement toolkit</td>
     <td>
-      <img width="150" src="https://img.shields.io/github/stars/MrKyng/MCL-Launcher?style=social" alt="MCL-Launcher stars"/>
+      <img width="150" src="https://img.shields.io/github/stars/MrKyng/Upthrum?style=social" alt="Upthrum stars"/>
     </td>
     <td>
-      <img width="150" src="https://img.shields.io/github/forks/MrKyng/MCL-Launcher?style=social" alt="MCL-Launcher forks"/>
+      <img width="150" src="https://img.shields.io/github/forks/MrKyng/Upthrum?style=social" alt="Upthrum forks"/>
     </td>
   </tr>
 </table>
