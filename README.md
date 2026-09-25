@@ -86,7 +86,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MrKyng/Upthrum" target="_blank">Upthrum</a></td>
-    <td>A Open‑source image & video quality enhancement toolkit</td>
+    <td>A Open‑source image quality enhancement engine</td>
     <td>
       <img width="150" src="https://img.shields.io/github/stars/MrKyng/Upthrum?style=social" alt="Upthrum stars"/>
     </td>
